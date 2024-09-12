@@ -1,0 +1,36 @@
+.wrap-text {
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+
+textarea {
+    line-height: normal!important;
+}
+
+.bg-disabled {
+    background: #f9f9f9!important;
+}
+
+.btn-upload-file {
+    border-top-right-radius: 4px!important;
+    border-bottom-right-radius: 4px!important;
+    height: 46px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-white {
+    background: white!important;
+}
+
+.sub-menu .nav-item.sub-active .nav-link {
+    color: #131313;
+}
+
+.sub-menu .nav-item:hover .nav-link {
+    color: #131313;
+}
